@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/D:/JAVA/SERV_1/servicio1.wsdl.xml" uri="src/conf/xml-resources/web-services/OTRO_SERVICIO/wsdl/servicio1.wsdl.xml.wsdl"/>
+    <system systemId="http://localhost:8080/SERV_1/servicio1?xsd=1" uri="src/conf/xml-resources/web-services/OTRO_SERVICIO/wsdl/localhost_8080/SERV_1/servicio1.xsd_1.xsd"/>
+</catalog>
